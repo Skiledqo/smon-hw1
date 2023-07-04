@@ -14,9 +14,7 @@
 #Создайте свой кастомный дашборд.
 ![Zabbix2_4.png](https://github.com/Skiledqo/smon-hw1/blob/main/img/Zabbix2_4.png)
 #Задание 6
-#Создайте UserParameter на bash и прикрепите его к созданному вами ранее шаблону. Он должен вызывать скрипт, который:
-#при получении 1 будет возвращать ваши ФИО,
-#при получении 2 будет возвращать текущую дату.
+#Создайте UserParameter на bash и прикрепите его к созданному вами ранее шаблону. Он должен вызывать скрипт, который:при получении 1 будет возвращать ваши ФИО,при получении 2 будет возвращать текущую дату.
 ![Zabbix2_6.png](https://github.com/Skiledqo/smon-hw1/blob/main/img/Zabbix2_6.png)
 ![Zabbix2_61.png](https://github.com/Skiledqo/smon-hw1/blob/main/img/Zabbix2_61.png)
 #Задание 8
